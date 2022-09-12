@@ -20,13 +20,19 @@ Here are some ideas to get you started:
 -->
 
 <!--
-github-profile-summary-cards
+Reference Info about github-profile-summary-cards
+
+GitHubのプロフィールかっこよくする - kosappi の日記
+https://blog.kosappi.net/entry/2021/04/17/002051
+
 https://github.com/vn7n24fzkq/github-profile-summary-cards
 https://github.com/anuraghazra/github-readme-stats
 -->
 
 
 <!--
+WIP Setting:
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lolonao&count_private=true&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
