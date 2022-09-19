@@ -83,7 +83,6 @@ WIP Setting:
 ![](https://img.shields.io/static/v1?label=OS&message=Linux&style=flat&logo=linux&logoColor=white&color=red)
 ![](https://img.shields.io/static/v1?label=OS&message=Windows&style=flat&logo=windows&logoColor=white&color=red)
 ![](https://img.shields.io/static/v1?label=OS&message=macOS&style=flat&logo=macos&logoColor=white&color=red)
-![](https://img.shields.io/static/v1?label=OS&message=API&style=flat&logo=api&logoColor=white&color=red)
 
 ![](https://img.shields.io/static/v1?label=Tools&message=GitHub&style=flat&logo=github&logoColor=white&color=orange)
 ![](https://img.shields.io/static/v1?label=Tools&message=GitLab&style=flat&logo=gitlab&logoColor=white&color=orange)
