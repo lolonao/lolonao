@@ -3,7 +3,6 @@
 ### Hi there 👋
 
 Hi there, I'm a IT Engineer (maybe fullstack :). I'm currenty living at the Phillipines.
-みなさん、こんにちは。私はフィリピンに在住中のITエンジニアです。
 [日本語プロフィールはこちら](https://github.com/lolonao/lolonao/blob/main/README_ja_JP.md)
 
 ```json
