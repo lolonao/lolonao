@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-Hi there, I'm a IT Engineer (maybe fullstack :). I'm currenty living at the Phillipines.
+Hi there, I'm an IT Engineer (maybe fullstack :). I'm currenty living at the Phillipines. And develop for microcontrollers with MicroPython or CircuitPython as my hobby.
 [日本語プロフィールはこちら](https://github.com/lolonao/lolonao/blob/main/README_ja_JP.md)
 
 ```json
@@ -13,7 +13,7 @@ Hi there, I'm a IT Engineer (maybe fullstack :). I'm currenty living at the Phil
     "pronun": "He/Him",
     "countries": [ "Japan", "Philippines" ],
     "languages": [ "Japanese", "English" ],
-    "interesting": ["develop for microcontrollers with MicroPython or CircuitPython"],
+    "interesting": [""],
 }
 ```
 
@@ -28,7 +28,7 @@ Hi there, I'm a IT Engineer (maybe fullstack :). I'm currenty living at the Phil
 - 🌱 I’m currently learning Raspberry Pi, CircuitPython, GraphQL
 - 📫 How to reach me: [@lolo_naoki](https://twitter.com/lolo_naoki)
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I ❤️ 🐶s  Cooking
+- ⚡ Fun fact: I ❤️ Cooking
 
 <!--
 **lolonao/lolonao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
