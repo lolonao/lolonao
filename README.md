@@ -2,18 +2,17 @@
 
 ### Hi there 👋
 
-Hi there, I'm an IT Engineer (maybe fullstack :). I'm currenty living at the Phillipines. And develop for microcontrollers with MicroPython or CircuitPython as my hobby.
+Hi, I am an IT engineer. I am currently living in the Philippines. I develop microcontroller software using MicroPython and CircuitPython as a hobby.
 [日本語プロフィールはこちら](https://github.com/lolonao/lolonao/blob/main/README_ja_JP.md)
 
 ```json
 {
     "name": "Naoki Tsutsui",
     "nickname": "lolonao",
-    "birth": "1966/04/07",
+    "birth": "1966",
     "pronun": "He/Him",
     "countries": [ "Japan", "Philippines" ],
     "languages": [ "Japanese", "English" ],
-    "interesting": [""],
 }
 ```
 
