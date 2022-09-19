@@ -18,9 +18,6 @@ Hi there, I'm a IT Engineer (maybe fullstack :). I'm currenty living at the Phil
 ```
 
 <p align="center">
-  <a href="https://github.com/lolonao/lolonao/blob/main/README_ja_JP.md">
-    <img align="center" src="https://img.shields.io/static/v1?label=README&message=日本語&color=blue">
-  </a>
   <a href="https://visitor-badge.glitch.me/">
     <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=lolonao.visitor-badge">
   </a>
