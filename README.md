@@ -14,19 +14,17 @@ Hi there, I'm a IT Engineer (maybe fullstack :). I'm currenty living at the Phil
     "countries": [ "Japan", "Philippines" ],
     "languages": [ "Japanese", "English" ],
     "interesting": ["develop for microcontrollers with MicroPython or CircuitPython"],
-    "misc": "translate English to Japanese"
 }
 ```
 
 <p align="center">
   <a href="https://github.com/lolonao/lolonao/blob/main/README_ja_JP.md">
-    <img align="center" src="https://img.shields.io/static/v1?label=README&message=日本語&style=flat&logo=japan&logoColor=white&color=blue">
+    <img align="center" src="https://img.shields.io/static/v1?label=README&message=日本語&style=flat&logoColor=white&color=blue">
   </a>
   <a href="https://visitor-badge.glitch.me/">
     <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=lolonao.visitor-badge">
   </a>
 </p>
-
 
 
 - 🔭 I am currently working on MicroPython, CircuitPython, ESP32 and micro:bit as a hobby.
