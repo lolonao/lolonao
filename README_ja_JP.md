@@ -2,6 +2,8 @@
 
 ## みなさんこんにちは 👋
 
+日本語版は準備中です。
+
 - 🔭 I am currently working on MicroPython, CircuitPython, ESP32, and micro:bit as a hobby.
 - 🌱 I’m currently learning Raspberry Pi, CircuitPython, GraphQL
 - 📫  How to reach me: [@lolo_naoki](https://twitter.com/lolo_naoki)

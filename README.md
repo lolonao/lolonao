@@ -109,9 +109,11 @@ WIP Setting:
 />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lolonao&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 </p>
 
+## Links
+
+<p>
 <details>
   <summary>Useful information and service links for Github Profile Summary</summary>
   <br>
@@ -125,6 +127,11 @@ WIP Setting:
 
   - [Remix Icon - Open source icon library](https://remixicon.com/)
   - [Simple Icons](https://simpleicons.org/?q=visual)
+
+  <p><i>Emoji</i><p>
+  
+  - [📙 Emojipedia — 😃 Home of Emoji Meanings 💁👌🎍😍](https://emojipedia.org/)
+  - [FileFormat.Info · The Digital Rosetta Stone](https://www.fileformat.info/index.htm)
 
   <p><i>Markdown</i><p>
 
