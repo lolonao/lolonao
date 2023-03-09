@@ -73,6 +73,7 @@ WIP Setting:
 
 ![](https://img.shields.io/static/v1?label=Editor&message=Vim&style=flat&logo=vim&logoColor=white&color=blue)
 ![](https://img.shields.io/static/v1?label=Editor&message=NeoVim&style=flat&logo=neovim&logoColor=white&color=blue)
+![](https://img.shields.io/static/v1?label=Editor&message=VSCode&style=flat&logo=visualstudiocode&logoColor=white&color=blue)
 ![](https://img.shields.io/static/v1?label=IDE&message=PyCharm&style=flat&logo=pycharm&logoColor=white&color=blue)
 ![](https://img.shields.io/static/v1?label=IDE&message=ArduinoIDE&style=flat&logo=arduino&logoColor=white&color=blue)
 ![](https://img.shields.io/static/v1?label=IDE&message=Thonny&style=flat&logo=thonny&logoColor=white&color=blue)
