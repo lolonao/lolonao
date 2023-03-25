@@ -7,7 +7,6 @@ Hi, I am an IT engineer and writer. I am currently living in the Philippines. I 
 
 ```json
 {
-    "name": "Naoki Tsutsui",
     "nickname": "lolonao",
     "birth": "1966",
     "pronun": "He/Him",
