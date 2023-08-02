@@ -101,6 +101,8 @@ WIP Setting:
 
 ![](https://img.shields.io/static/v1?label=Translation&message=English-Japanese&style=flat&logo=translation&logoColor=white&color=blue)
 
+
+<!--
 ## Github Stats
 <p>
 <img
@@ -110,6 +112,7 @@ WIP Setting:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lolonao&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </p>
+-->
 
 ## Links
 
