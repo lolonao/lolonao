@@ -2,8 +2,11 @@
 
 ### Hi there 👋
 
-Hi, I am an IT engineer and writer. I am currently living in the Philippines. I develop microcontroller software using MicroPython and CircuitPython as a hobby.
+Hi, I am an IT engineer and writer. I am currently living in the Philippines. I develop microcontroller firmware using [MicroPython] and [Zig] as a hobby.
 [日本語プロフィールはこちら](https://github.com/lolonao/lolonao/blob/main/README_ja_JP.md)
+
+[Zig]: https://ziglang.org/
+[MicroPython]: https://micropython.org/
 
 ```json
 {
