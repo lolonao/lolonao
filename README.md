@@ -18,11 +18,7 @@ Hi, I am an IT engineer and writer. I am currently living in the Philippines. I 
 }
 ```
 
-<p align="center">
-  <a href="https://visitor-badge.glitch.me/">
-    <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=lolonao.visitor-badge">
-  </a>
-</p>
+![](https://komarev.com/ghpvc/?username=lolonao&base=10023)
 
 
 - 🔭 I am currently working on Zig, Rust, MicroPython, RISC-V, ESP32 and micro:bit as my hobbies.
