@@ -108,7 +108,7 @@ WIP Setting:
 ![](https://img.shields.io/static/v1?label=Translation&message=English-Japanese&style=flat&logo=translation&logoColor=white&color=blue)
 
 ![](https://img.shields.io/static/v1?label=Writer&message=ScienceWriter&style=flat&logo=writer&logoColor=white&color=blue)
-- https://kusanomido.com/
+- [https://kusanomido.com/](https://kusanomido.com/author/crescent/)
 
 <!--
 ## Github Stats
