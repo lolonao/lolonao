@@ -95,6 +95,8 @@ WIP Setting:
 ![](https://img.shields.io/static/v1?label=Tools&message=PostgreSQL&style=flat&logo=postgresql&logoColor=white&color=orange)
 ![](https://img.shields.io/static/v1?label=Tools&message=SQLite&style=flat&logo=sqlite&logoColor=white&color=orange)
 ![](https://img.shields.io/static/v1?label=Tools&message=MongoDB&style=flat&logo=mongodb&logoColor=white&color=orange)
+![](https://img.shields.io/static/v1?label=Tools&message=Docker&style=flat&logo=docker&logoColor=white&color=orange)
+![](https://img.shields.io/static/v1?label=Tools&message=K8s&style=flat&logo=kubernetes&logoColor=white&color=orange)
 
 ![](https://img.shields.io/static/v1?label=Communication&message=Matrix&style=flat&logo=matrix&logoColor=white&color=yellow)
 ![](https://img.shields.io/static/v1?label=Communication&message=Discord&style=flat&logo=discord&logoColor=white&color=yellow)
@@ -105,6 +107,8 @@ WIP Setting:
 
 ![](https://img.shields.io/static/v1?label=Translation&message=English-Japanese&style=flat&logo=translation&logoColor=white&color=blue)
 
+![](https://img.shields.io/static/v1?label=Writer&message=ScienceWriter&style=flat&logo=writer&logoColor=white&color=blue)
+- https://kusanomido.com/
 
 <!--
 ## Github Stats
