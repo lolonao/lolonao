@@ -17,9 +17,7 @@ Hi, I am an IT engineer and writer. I am currently living in the Philippines. I 
     "languages": [ "Japanese", "English" ],
 }
 ```
-
-![](https://komarev.com/ghpvc/?username=lolonao&base=10023)
-
+![](https://komarev.com/ghpvc/?username=lolonao&style=flat-square&base=10023)
 
 - 🔭 I am currently working on Zig, Rust, MicroPython, RISC-V, ESP32 and micro:bit as my hobbies.
 - 🌱 I’m currently learning about RISC-V, Journalism, Writer.
