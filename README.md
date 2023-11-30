@@ -22,8 +22,8 @@ Hi, I am an IT engineer and writer. I am currently living in the Philippines. I 
 </p>
 
 
-- 🔭 I am currently working on MicroPython, CircuitPython, ESP32 and micro:bit as a hobby.
-- 🌱 I’m currently learning Raspberry Pi, CircuitPython, GraphQL
+- 🔭 I am currently working on Zig, Rust, MicroPython, RISC-V, ESP32 and micro:bit as my hobbies.
+- 🌱 I’m currently learning about RISC-V, Journalism, Writer.
 - 📫 How to reach me: [@lolo_naoki](https://twitter.com/lolo_naoki)
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I ❤️ Cooking
@@ -59,6 +59,7 @@ WIP Setting:
 
 ## My Experience
 
+![](https://img.shields.io/static/v1?label=Code&message=Zig&style=flat&logo=zig&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/static/v1?label=Code&message=Python&style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/static/v1?label=Code&message=JavaScript&style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/static/v1?label=Code&message=TypeScript&style=flat&logo=typescript&logoColor=white&color=2bbc8a)
@@ -77,12 +78,15 @@ WIP Setting:
 ![](https://img.shields.io/static/v1?label=IDE&message=ArduinoIDE&style=flat&logo=arduino&logoColor=white&color=blue)
 ![](https://img.shields.io/static/v1?label=IDE&message=Thonny&style=flat&logo=thonny&logoColor=white&color=blue)
 
+![](https://img.shields.io/static/v1?label=OS&message=ArchLinux&style=flat&logo=archlinux&logoColor=white&color=red)
+![](https://img.shields.io/static/v1?label=OS&message=antiXLinux&style=flat&logo=antiXlinux&logoColor=white&color=red)
+![](https://img.shields.io/static/v1?label=OS&message=MXLinux&style=flat&logo=mxlinux&logoColor=white&color=red)
 ![](https://img.shields.io/static/v1?label=OS&message=Ubuntu&style=flat&logo=ubuntu&logoColor=white&color=red)
 ![](https://img.shields.io/static/v1?label=OS&message=Dbian&style=flat&logo=debian&logoColor=white&color=red)
 ![](https://img.shields.io/static/v1?label=OS&message=Raspberry-Pi-OS&style=flat&logo=raspberrypi&logoColor=white&color=red)
-![](https://img.shields.io/static/v1?label=OS&message=Linux&style=flat&logo=linux&logoColor=white&color=red)
-![](https://img.shields.io/static/v1?label=OS&message=Windows&style=flat&logo=windows&logoColor=white&color=red)
+![](https://img.shields.io/static/v1?label=OS&message=BSD&style=flat&logo=freebsd&logoColor=white&color=red)
 ![](https://img.shields.io/static/v1?label=OS&message=macOS&style=flat&logo=macos&logoColor=white&color=red)
+![](https://img.shields.io/static/v1?label=OS&message=Windows&style=flat&logo=windows&logoColor=white&color=red)
 
 ![](https://img.shields.io/static/v1?label=Tools&message=GitHub&style=flat&logo=github&logoColor=white&color=orange)
 ![](https://img.shields.io/static/v1?label=Tools&message=GitLab&style=flat&logo=gitlab&logoColor=white&color=orange)
@@ -92,7 +96,7 @@ WIP Setting:
 ![](https://img.shields.io/static/v1?label=Tools&message=SQLite&style=flat&logo=sqlite&logoColor=white&color=orange)
 ![](https://img.shields.io/static/v1?label=Tools&message=MongoDB&style=flat&logo=mongodb&logoColor=white&color=orange)
 
-
+![](https://img.shields.io/static/v1?label=Communication&message=Matrix&style=flat&logo=matrix&logoColor=white&color=yellow)
 ![](https://img.shields.io/static/v1?label=Communication&message=Discord&style=flat&logo=discord&logoColor=white&color=yellow)
 ![](https://img.shields.io/static/v1?label=Communication&message=Slack&style=flat&logo=slack&logoColor=white&color=yellow)
 ![](https://img.shields.io/static/v1?label=Communication&message=Zoom&style=flat&logo=zoom&logoColor=white&color=yellow)
