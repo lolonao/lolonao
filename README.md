@@ -79,7 +79,7 @@ WIP Setting:
 ![](https://img.shields.io/static/v1?label=OS&message=antiXLinux&style=flat&logo=antiXlinux&logoColor=white&color=red)
 ![](https://img.shields.io/static/v1?label=OS&message=MXLinux&style=flat&logo=mxlinux&logoColor=white&color=red)
 ![](https://img.shields.io/static/v1?label=OS&message=Ubuntu&style=flat&logo=ubuntu&logoColor=white&color=red)
-![](https://img.shields.io/static/v1?label=OS&message=Dbian&style=flat&logo=debian&logoColor=white&color=red)
+![](https://img.shields.io/static/v1?label=OS&message=Debian&style=flat&logo=debian&logoColor=white&color=red)
 ![](https://img.shields.io/static/v1?label=OS&message=Raspberry-Pi-OS&style=flat&logo=raspberrypi&logoColor=white&color=red)
 ![](https://img.shields.io/static/v1?label=OS&message=BSD&style=flat&logo=freebsd&logoColor=white&color=red)
 ![](https://img.shields.io/static/v1?label=OS&message=macOS&style=flat&logo=macos&logoColor=white&color=red)
