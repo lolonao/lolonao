@@ -83,7 +83,9 @@ WIP Setting:
 ![](https://img.shields.io/static/v1?label=OS&message=Raspberry-Pi-OS&style=flat&logo=raspberrypi&logoColor=white&color=red)
 ![](https://img.shields.io/static/v1?label=OS&message=BSD&style=flat&logo=freebsd&logoColor=white&color=red)
 ![](https://img.shields.io/static/v1?label=OS&message=macOS&style=flat&logo=macos&logoColor=white&color=red)
-![](https://img.shields.io/static/v1?label=OS&message=Windows&style=flat&logo=windows&logoColor=white&color=red)
+![](https://img.shields.io/static/v1?label=OS&message=ChromeOS&style=flat&logo=google%20chrome&logoColor=white&color=red)
+![](https://img.shields.io/static/v1?label=OS&message=Linux%20Mint&style=flat&logo=linux%20mint&logoColor=white&color=red)
+
 
 ![](https://img.shields.io/static/v1?label=Tools&message=GitHub&style=flat&logo=github&logoColor=white&color=orange)
 ![](https://img.shields.io/static/v1?label=Tools&message=GitLab&style=flat&logo=gitlab&logoColor=white&color=orange)
