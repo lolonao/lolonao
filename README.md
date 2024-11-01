@@ -97,6 +97,7 @@ WIP Setting:
 ![](https://img.shields.io/static/v1?label=Tools&message=SQLite&style=flat&logo=sqlite&logoColor=white&color=orange)
 ![](https://img.shields.io/static/v1?label=Tools&message=MongoDB&style=flat&logo=mongodb&logoColor=white&color=orange)
 ![](https://img.shields.io/static/v1?label=Tools&message=DuckDB&style=flat&logo=duckdb&logoColor=white&color=orange)
+![](https://img.shields.io/static/v1?label=Tools&message=turso&style=flat&logo=turso&logoColor=white&color=orange)
 
 ![](https://img.shields.io/static/v1?label=Tools&message=Docker&style=flat&logo=docker&logoColor=white&color=orange)
 ![](https://img.shields.io/static/v1?label=Tools&message=K8s&style=flat&logo=kubernetes&logoColor=white&color=orange)
