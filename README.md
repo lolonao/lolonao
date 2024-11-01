@@ -71,6 +71,8 @@ WIP Setting:
 ![](https://img.shields.io/static/v1?label=Editor&message=Vim&style=flat&logo=vim&logoColor=white&color=blue)
 ![](https://img.shields.io/static/v1?label=Editor&message=NeoVim&style=flat&logo=neovim&logoColor=white&color=blue)
 ![](https://img.shields.io/static/v1?label=Editor&message=VSCode&style=flat&logo=visualstudiocode&logoColor=white&color=blue)
+![](https://img.shields.io/static/v1?label=Editor&message=Zed&style=flat&logo=Zed&logoColor=white&color=blue)
+
 ![](https://img.shields.io/static/v1?label=IDE&message=PyCharm&style=flat&logo=pycharm&logoColor=white&color=blue)
 ![](https://img.shields.io/static/v1?label=IDE&message=ArduinoIDE&style=flat&logo=arduino&logoColor=white&color=blue)
 ![](https://img.shields.io/static/v1?label=IDE&message=Thonny&style=flat&logo=thonny&logoColor=white&color=blue)
@@ -94,6 +96,8 @@ WIP Setting:
 ![](https://img.shields.io/static/v1?label=Tools&message=PostgreSQL&style=flat&logo=postgresql&logoColor=white&color=orange)
 ![](https://img.shields.io/static/v1?label=Tools&message=SQLite&style=flat&logo=sqlite&logoColor=white&color=orange)
 ![](https://img.shields.io/static/v1?label=Tools&message=MongoDB&style=flat&logo=mongodb&logoColor=white&color=orange)
+![](https://img.shields.io/static/v1?label=Tools&message=DuckDB&style=flat&logo=duckdb&logoColor=white&color=orange)
+
 ![](https://img.shields.io/static/v1?label=Tools&message=Docker&style=flat&logo=docker&logoColor=white&color=orange)
 ![](https://img.shields.io/static/v1?label=Tools&message=K8s&style=flat&logo=kubernetes&logoColor=white&color=orange)
 
